@@ -1,0 +1,6 @@
+# On the GPU desktop, install the CUDA build of torch first from https://pytorch.org
+# (pick your OS / CUDA version there), then run: pip install -r requirements.txt
+torch>=2.1
+numpy
+matplotlib
+pytest
